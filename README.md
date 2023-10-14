@@ -1,2 +1,2 @@
-# my-page2
+# my-page
  
